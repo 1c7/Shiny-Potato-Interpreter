@@ -1,8 +1,11 @@
 # Shiny-Potato-Interpreter
 Learn https://ruslanspivak.com/lsbasi-part1/
 
+## Progress
+part1 about 40%  
+
 ## What Language to build Interpreter?
-Python
+Python. 2/3??
 
 ## What Interpreter?
 interpreter for a __large subset of Pascal language.__
